@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#hobbies{
+  background-color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+}
+#favourites{
+    background-color: antiquewhite;
+    font-family: cursive;
+    text-align: center;
+}
+#boruto{
+    text-align: center;
+    image-resolution: from-image;
+    width: auto;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: firebrick;
+}
+.special moves{
+    text-align: center;
+    font-family: cursive;
+    background-color: aqua;
+}
